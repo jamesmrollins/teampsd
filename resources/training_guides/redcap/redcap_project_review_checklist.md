@@ -1,5 +1,9 @@
-
 ## **REDCap Project Review Checklist**
+
+Team PSD is using REDCap for the following *Modeling to Learn* survey/REDCap projects:
+- *Modeling to Learn* Fidelity ratings to be completed by the Facilitators to are measure how well they have delivered the 12 sessions according to the theory of change.
+- *Modeling to Learn* Menu at mtl.how/menu where the Learners fill out their priorities and learning needs to help Facilitators determine which *MTL* module is best for the team.
+- IIR & R01 Baseline & 6 Months measures for *MTL* Blue and Red that are completed by the Learners about how their team did throughout the 12 sessions. 
 
 **Getting on REDCAP**
 
