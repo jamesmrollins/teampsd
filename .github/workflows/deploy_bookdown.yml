@@ -1,7 +1,7 @@
 on:
   pull_request:
      branches:
-       - "[Ff]eature-gh-pages_*"
+       - gh-pages
 
 name: renderbook
 
