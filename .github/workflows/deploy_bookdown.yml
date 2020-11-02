@@ -1,7 +1,9 @@
 on:
-  push:
-     branches:
-       - "[Ff]eature-*" 
+  #push:
+     #branches:
+       #- "[Ff]eature-*" 
+  pull_request:
+    branches: [ gh-pages ]
 
 name: renderbook
 
